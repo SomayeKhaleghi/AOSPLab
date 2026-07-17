@@ -1,4 +1,4 @@
-# 🧪 AOSP-Lab
+# 🧪 AOSP LAB
 
 > *"Building, Breaking, and Customizing the Android Open Source Project"*
 
@@ -67,7 +67,7 @@ AOSP-Lab/
 
 ```
 
-# How to Build Each Project 
+## How to Build Each Project 
 | **ComposeCarHome** | AOSP 14 Launcher | [Detailed Instructions](./ComposeCarHome/README.md) |
 
 
