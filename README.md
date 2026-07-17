@@ -67,7 +67,8 @@ AOSP-Lab/
 
 ```
 
-
+# How to Build Each Project 
+| **ComposeCarHome** | AOSP 14 Launcher | [Detailed Instructions](./ComposeCarHome/README.md) |
 
 
 
