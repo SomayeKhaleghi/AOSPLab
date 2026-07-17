@@ -64,3 +64,56 @@ AOSP-Lab/
 ├── LICENSE                   # Apache 2.0
 ├── README.md                 # This file
 └── CONTRIBUTING.md           # How to contribute
+
+```
+
+
+
+
+
+
+---
+
+## 📜 License
+Copyright 2026 AOSP-Lab
+
+Licensed under the Apache License, Version 2.0 (the "License");
+you may not use this file except in compliance with the License.
+You may obtain a copy of the License at:
+
+    http://www.apache.org/licenses/LICENSE-2.0
+
+Unless required by applicable law or agreed to in writing, software
+distributed under the License is distributed on an "AS IS" BASIS,
+WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+See the License for the specific language governing permissions and
+limitations under the License.
+
+
+
+---
+
+## 🤝 Connect with Me
+
+- **GitHub**: [github.com/SomayeKhaleghi](https://github.com/SomayeKhaleghi)
+- **LinkedIn**: [linkedin.com/in/SomayeKhaleghi](https://linkedin.com/in/SomayeKhaleghi)
+- **YouTube**: [youtube.com/c/aosplab](https://youtube.com/c/aosplab)
+
+**I'm available for:**
+- 🚀 Freelance AOSP consulting
+- 💻 Android Automotive development
+- 📚 Technical training and mentorship
+- 🔒 Security hardening for Android devices
+
+---
+
+## ⭐ Support This Project
+
+If you find this repository helpful:
+- Star it ⭐
+- Fork it 🍴
+- Share it with your network 🔄
+
+---
+
+**Built with ❤️ by an AOSP Engineer who believes in open source.**
