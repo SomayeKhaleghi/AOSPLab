@@ -1,7 +1,8 @@
 # 🧪 AOSP LAB
 
 > *"Building, Breaking, and Customizing the Android Open Source Project"*
-> ![Uploading b8e0b960-8fcb-4e7a-84de-43944b3722c5.png…]()
+> <img width="1672" height="941" alt="b8e0b960-8fcb-4e7a-84de-43944b3722c5" src="https://github.com/user-attachments/assets/f41be439-6f85-4e9f-990e-33594ce6ccad" />
+
 
 
 ![AOSP](https://img.shields.io/badge/AOSP-14-green)
