@@ -14,7 +14,6 @@
 ---
 
 
-
 ## 📖 About This Repository
 
 Welcome to **AOSP-Lab** – a collection of projects that demonstrate deep integration with the **Android Open Source Project (AOSP)**.
