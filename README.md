@@ -30,7 +30,6 @@ This repository serves as a **living portfolio** of my work with AOSP, covering 
 ---
 
 ## 🚀 Why This Project Matters
-
 Most Android developers work with the SDK. This repository is for developers who work **with the source**. It demonstrates:
 
 - **Deep AOSP Knowledge**: Building, signing, and deploying system-level apps.
