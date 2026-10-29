@@ -20,6 +20,7 @@ This repository serves as a **living portfolio** of my work with AOSP, covering 
 
 ### What You'll Find Here
 
+
 | Project | Description | Focus Area |
 | :--- | :--- | :--- |
 | **ComposeCarHome** | A complete, custom launcher for Android Automotive OS 14 | AOSP Integration, Compose UI, System Apps |
