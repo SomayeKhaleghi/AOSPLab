@@ -45,7 +45,6 @@ Most Android developers work with the SDK. This repository is for developers who
 | **Soong** | AOSP | Build system for Android modules |
 
 ---
-
 ## 📁 Project Structure
 
 ```bash
