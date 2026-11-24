@@ -8,7 +8,6 @@
 ![Compose](https://img.shields.io/badge/Jetpack_Compose-2024.09-blue)
 ![License](https://img.shields.io/badge/License-Apache_2.0-red)
 ![Platform](https://img.shields.io/badge/Platform-AAOS_14-orange)
-
 ---
 
 ## 📖 About This Repository
